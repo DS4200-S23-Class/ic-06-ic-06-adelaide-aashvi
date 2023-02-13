@@ -1,0 +1,17 @@
+body {
+    font-family: Arial; 
+}
+
+#frame {
+    width: 1500px;
+    height: 600px;
+}
+
+circle {
+    fill: cyan;
+}
+
+line{
+    stroke: darkblue;
+    stroke-width:20px;
+}
